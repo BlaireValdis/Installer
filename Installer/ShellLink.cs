@@ -26,7 +26,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-
+// test
 
 namespace MSjogren.Samples.ShellLink
 {
